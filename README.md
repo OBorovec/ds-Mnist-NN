@@ -1,1 +1,1 @@
-# mnist-and-nn-frameworks
+# Classification of MNIST using Neural Networ with different frameworks
